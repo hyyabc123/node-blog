@@ -20,7 +20,7 @@
             </div>
             <div class="sidebar">
                 <div class="introduction">
-                    <div>
+                    <div class="avator">
                         <img src="../../assets/person.jpg" alt="我的照片">
                     </div>
                     <p>郝赟赟</p>
@@ -203,6 +203,16 @@ li {
     margin-right: 20px;
 }
 .my-link img {
-    width: 100%;
+    width: 40px;
+    height: 40px;
+}
+.avator{
+  width: 280px;
+  height: 200px;
+  overflow: hidden;
+}
+.avator img{
+  width: 100%;
+  height: 100%;
 }
 </style>

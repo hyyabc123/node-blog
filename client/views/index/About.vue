@@ -1,7 +1,8 @@
 <template>
     <div class="view-about">
         自我介绍
-          大家好，我是hyy
+        <br>
+            大家好，我是hyy
     </div>
 </template>
 
